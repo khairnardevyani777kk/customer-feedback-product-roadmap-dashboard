@@ -1,0 +1,25 @@
+Create a realistic premium enterprise SaaS Product Management and Voice-of-Customer analytics dashboard titled “Customer Feedback & Product Roadmap Alignment Dashboard”.
+
+Show the ENTIRE dashboard on ONE SCREEN, with no cropping, no hidden sections, and no cut-off UI.
+
+Include:
+- Executive KPI cards: Total Feedback, NPS, Average CSAT, High Priority Requests, Roadmap Alignment %
+- Customer Sentiment Analysis with positive / neutral / negative visualization
+- NPS and CSAT cards / mini charts
+- Feature Request Ranking
+- Customer Pain Point Analysis
+- Product Area Feedback Analysis
+- Customer Segment analysis
+- Impact vs Effort Matrix with Quick Wins, Strategic Initiatives, Fill-ins, Avoid/Postpone
+- Feedback-to-Roadmap Funnel showing Customer Voice → Pain Point → Impact → Business Value → Priority → Roadmap
+- Product Manager Decision Table with request, impact, effort, priority, decision
+- Now / Next / Later product roadmap timeline
+- Filters / slicers for Customer Segment, Feedback Source, Product Area, Priority, Roadmap Quarter, Feedback Type
+
+Design style:
+modern enterprise SaaS, premium Product Management analytics platform, clean professional UI, realistic dashboard, sophisticated information hierarchy, crisp typography, subtle cards, charts and tables, executive-ready, suitable for GitHub README, LinkedIn project showcase, resume portfolio and interview presentation.
+
+The dashboard should visually communicate:
+CUSTOMER VOICE → PAIN POINT → BUSINESS IMPACT → PRIORITY → PRODUCT DECISION → ROADMAP
+
+Use realistic sample business data and professional chart labels. Avoid decorative clutter. Keep all sections readable and visually balanced. Full dashboard visible without cropping, landscape desktop aspect ratio, polished portfolio-quality interface.
